@@ -1,5 +1,4 @@
-Système expert de recommandation de restaurant
-Bienvenue dans le système de recommandation de restaurants ! Ce guide vous aidera à tirer le meilleur parti de l'application pour trouver des restaurants adaptés à vos préférences. Suivez attentivement les étapes ci-dessous pour une expérience optimale:
+Bienvenue dans notre système expert de recommandation de restaurants ! Ce guide vous aidera à tirer le meilleur parti de l'application pour trouver des restaurants adaptés à vos préférences. Suivez attentivement les étapes ci-dessous pour une expérience optimale:
 1-Sélection du Type de Cuisine:
 Veuillez sélectionné le type de cuisine préféré 
 2-Choix du Budget:
