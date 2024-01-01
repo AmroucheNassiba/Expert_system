@@ -1,5 +1,6 @@
 Bienvenue dans notre système expert de recommandation de restaurants ! 
 Ce guide vous aidera à tirer le meilleur parti de l'application pour trouver des restaurants adaptés à vos préférences. Suivez attentivement les étapes ci-dessous pour une expérience optimale:
+d'abord veuillez exécuter " afficher_interface." après avoir consulter le fichier du code .
 1-Sélection du Type de Cuisine:
 Veuillez sélectionné le type de cuisine préféré .
 2-Choix du Budget:
